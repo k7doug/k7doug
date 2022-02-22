@@ -4,6 +4,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=k7doug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k7doug&layout=compact&langs_count=7&theme=dark"/>
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31covt5tk2lctgwc7pd4hwrcq4jm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31covt5tk2lctgwc7pd4hwrcq4jm&cover_image=true&theme=novatorem&bar_color=86568f&bar_color_cover=true)">
+<a href="https://discord.com/users/686489824546390026" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/81440962496172032?bg=1f1f1f&borderRadius=5px">
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
