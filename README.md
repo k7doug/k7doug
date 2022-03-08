@@ -1,4 +1,4 @@
-## Olá me chamo Douglas Costa, um apaixonado por tecnologia e desenvolvimento de jogos!
+## Hi, my name is Douglas Costa, passionate about technology and game development!
 <div align="center">
   <a href="https://github.com/k7doug">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=k7doug&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
